@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**EvanCNavarro/EvanCNavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <sub><p><b>Product Designer</b>, <i>with experience in Full-Stack Development.</i></p></sub>
+  <sub>
+    <a href="https://rida.dev/" target="_blank">🌐 &nbsp;Portfolio</a>
+  </sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>
+    <a href="mailto:hey@ecn.dev" target="_blank">📩 &nbsp;Contact</a>
+  </sub> &nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>
+    <a href="https://y.at/👋🤓💻" target="_blank">📲 &nbsp;Socials</a>
+  </sub>
+</div>
